@@ -1,4 +1,5 @@
 name: "Abigail's 2nd PM566 website"
+output_dir: "."
 navbar:
   title: "My Website V2"
   left:
