@@ -1,1 +1,9 @@
-
+name: "Abigail's 2nd PM566 website"
+navbar:
+  title: "My Website V2"
+  left:
+    - text: "Abigail's Home"
+      href: index.html
+output:
+  html_document:
+    theme: paper
